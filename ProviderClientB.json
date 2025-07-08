@@ -1,0 +1,27 @@
+[
+  {
+    "provider": "B",
+    "storage_gb": 75,
+    "price_per_gb": 0.045
+  },
+  {
+    "provider": "B",
+    "storage_gb": 150,
+    "price_per_gb": 0.028
+  },
+  {
+    "provider": "B",
+    "storage_gb": 250,
+    "price_per_gb": 0.024
+  },
+  {
+    "provider": "B",
+    "storage_gb": 600,
+    "price_per_gb": 0.019
+  },
+  {
+    "provider": "B",
+    "storage_gb": 1200,
+    "price_per_gb": 0.017
+  }
+]
